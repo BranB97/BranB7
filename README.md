@@ -16,6 +16,6 @@ Here lies projects that I've worked on during my free time.
 
 | Title         | Project Description          | Repo          |         
 | ------------- | ------------- |-------------  |
-| Jobstreet     | Developed an end-to-end ETL pipeline to process and load data from a dataset containing job information scraped from Jobstreet. The raw data is extracted and transformed using Python (pandas) which is then loaded into a data warehouse (BigQuery). The entire pipeline is orchestrated via Apache Airflow. Lastly, a dashboard is created to visualise the loaded data using Looker Studio.  |               |
+| Jobstreet     | Developed an end-to-end ETL pipeline to process and load data from a dataset containing job listings scraped from Jobstreet. The raw data is extracted and transformed using Python (pandas) which is then loaded into a data warehouse (BigQuery). The entire pipeline is orchestrated via Apache Airflow. Lastly, a dashboard is created to visualise the loaded data using Looker Studio.  |  [:file_folder:](https://github.com/BranB97/jobstreet-data-eng-project)  |
 | Letterboxd    | wip           |    wip        |
 
