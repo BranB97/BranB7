@@ -1,4 +1,4 @@
-# Hi stranger, Bran here 👋
+# Hi there, Bran here 👋
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonbutler-it)
 ## Tools ⚒
 * Languages: SQL (PL/SQL, T-SQL), Python, Java, C#
